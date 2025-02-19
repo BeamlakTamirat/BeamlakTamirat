@@ -5,9 +5,17 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on Full-Stack Development(React+Node.js+Express.js+Typescript) + Mobile-App Development(Flutter)
+### 🛠️ **Full-Stack Architect**  
+- ⚛️ **Frontend**: Crafting dynamic web experiences with **React**.  
+- 🖥️ **Backend**: Engineering scalable systems using **Node.js**/**Express.js**.  
+- 🛡️ **Code Quality**: Bulletproofing logic with **TypeScript** precision.  
 
+### 📱 **Flutter Artisan**  
+- ✨ Designing buttery-smooth cross-platform apps with **Flutter** — where UI/UX meets pixel-perfect performance!  
 
+### 🤖 **AI/ML Enthusiast**  
+- 🧠 Obsessed with the future of intelligence!  
+- 🔍 Diving deep into **AI/ML** — neural networks, predictive models, and blending automation with innovation. 
 
 # 🚀 Tech Stack  
 
