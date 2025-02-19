@@ -28,7 +28,7 @@
 
 # 📊 GitHub Stats:
 
-![BeamlakTamirat's Stats](https://github-readme-stats.vercel.app/api?username=BeamlakTamirat&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BeamlakTamirat?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![BeamlakTamirat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeamlakTamirat&theme=vue-dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
