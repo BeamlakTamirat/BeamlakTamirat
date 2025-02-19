@@ -28,7 +28,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamlakTamirat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  ![](https://github-readme-streak-stats.herokuapp.com/?user=BeamlakTamirat&theme=dark&hide_border=false) 
+![BeamlakTamirat's Stats](https://github-readme-stats.vercel.app/api?username=BeamlakTamirat&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) 
+![BeamlakTamirat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeamlakTamirat&theme=vue-dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BeamlakTamirat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
