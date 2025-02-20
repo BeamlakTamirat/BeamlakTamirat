@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Beamlak Tamirat
 
-
+---
 
 
 # 💫 About Me:
@@ -16,6 +16,8 @@
 ### 🤖 **AI/ML Enthusiast**  
 - 🧠 Obsessed with the future of intelligence!  
 - 🔍 Diving deep into **AI/ML** — neural networks, predictive models, and blending automation with innovation. 
+
+---
 
 # 🚀 Tech Stack  
 
@@ -33,6 +35,9 @@
 
 ## 🔹 Programming Languages  
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+---
 
 # 📊 GitHub Stats:
 
