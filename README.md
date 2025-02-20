@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Beamlak Tamirat</h1>
-<h3 align="center">Full-stack developer || Flutter developer</h3>
+<h3 align="center"> 💫 Full-stack developer || Flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beamlaktamirat&label=Profile%20views&color=0e75b6&style=flat" alt="beamlaktamirat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beamlaktamirat" alt="beamlaktamirat" /></a> </p>
 
-- 🌱 I’m currently learning  : **Full-stack development—mastering both dynamic frontend and robust backend technologies—while harnessing Flutter’s innovative potential to craft seamless, cross-platform mobile experiences.**
+- 🌱 I’m currently learning  : **Full-stack development—mastering both dynamic frontend and robust backend technologies—while harnessing Flutter’s innovative potential to craft seamless, cross-platform mobile experiences.🚀**
 
 - 💬 Ask me about :  **Flutter,Next.js,Node.js,React.js,express.js...**
 
