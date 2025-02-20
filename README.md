@@ -11,7 +11,7 @@
 
 - 📫 How to reach me :  **beamlaktamirat40926102@gmail.com**
 
-- ⚡ Fun fact :   **I once fixed a bug, then spent an hour wondering why it still worked! 🤔😆**
+- ⚡ Fun fact :   **I can write 'Hello World' in 7 languages, but can't speak a second one 🌍😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
