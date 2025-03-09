@@ -17,18 +17,19 @@
 
 
 <p align="center">
-  <a href="https://github.com/BeamlakTamirat">
-    <img src="https://img.shields.io/github/followers/BeamlakTamirat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
+
+  
+  <a><img src="https://komarev.com/ghpvc/?username=BeamlakTamirat&style=for-the-badge&color=0891b2" alt="Profile Views" /></a>
   <a href="https://linkedin.com/in/beamlak-tamirat-801124317/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:beamlaktamirat40926102@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BeamlakTamirat&style=for-the-badge&color=0891b2" alt="Profile Views" />
-</div>
+  <a href="https://github.com/BeamlakTamirat">
+    <img src="https://img.shields.io/github/followers/BeamlakTamirat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+</div
 
 </p>
 
@@ -125,11 +126,11 @@ I'm a passionate Full-Stack & Flutter developer from Ethiopia. I build elegant U
 ## 🎯 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/BeamlakTamirat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamlakTamirat&repo=your-best-repo-1&theme=react&hide_border=true" />
+  <a href="https://github.com/BeamlakTamirat/GroupChat-JavaSockets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamlakTamirat&repo=GroupChat-JavaSockets&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/BeamlakTamirat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamlakTamirat&repo=your-best-repo-2&theme=react&hide_border=true" />
+  <a href="https://github.com/BeamlakTamirat/Weather-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamlakTamirat&repo=Weather-App&theme=react&hide_border=true" />
   </a>
 </div>
 
