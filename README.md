@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&animation=scaleIn&height=100&section=header&text=Beamlak%20Tamirat&fontSize=50&animation=blink&fontColor=0891b2&fontAlignY=38&descSize=20&descAlignY=62&descAlign=62" width="100%"/>
-  
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Matrix Animation" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,4,30&animation=scaleIn&text=Beamlak%20Tamirat&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%92%AB%20FullStack%20Developer%20%7C%7C%20Mobile%20App%20Developer%20%5B%20Flutter%20%5D&descSize=20&descColor=90CAF9&descAlignY=55" width="100%"/>
 </div>
-
 
 
 
@@ -22,6 +19,10 @@
   <a href="mailto:beamlaktamirat40926102@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BeamlakTamirat&style=for-the-badge&color=0891b2" alt="Profile Views" />
+</div>
+
 </p>
 
 <br/>
@@ -88,7 +89,7 @@ I'm a passionate Full-Stack & Flutter developer from Ethiopia. I build elegant U
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Languages & Tools</b></summary>
 <br>
 <p align="left">
@@ -130,19 +131,17 @@ I'm a passionate Full-Stack & Flutter developer from Ethiopia. I build elegant U
 - [Coming soon...]()
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BeamlakTamirat&style=for-the-badge&color=0891b2" alt="Profile Views" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BeamlakTamirat/BeamlakTamirat/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-</div>
+
 
 <div align="center">
   <h3>⚡ Fun Fact</h3>
   <p><i>I can write 'Hello World' in 7 programming languages, but can't speak a second human language 🌍😆</i></p>
 </div>
 
+
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+      <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Matrix Animation" width="100%">
 </div>
+
