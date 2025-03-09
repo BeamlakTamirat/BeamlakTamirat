@@ -1,6 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,4,30&animation=scaleIn&text=Beamlak%20Tamirat&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%92%AB%20FullStack%20Developer%20%7C%7C%20Mobile%20App%20Developer%20%5B%20Flutter%20%5D&descSize=20&descColor=90CAF9&descAlignY=55" width="100%"/>
-</div>
+
+   <!-- Animated particle text -->
+  <a href="#">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  </a>
+  
+  <!-- Floating specializations -->
+  <div style="background-image: linear-gradient(to right, #0891b2, #3b82f6); padding: 20px; border-radius: 10px; margin: 10px 0; position: relative; overflow: hidden;"></div>
 
 
 
@@ -105,14 +112,14 @@ I'm a passionate Full-Stack & Flutter developer from Ethiopia. I build elegant U
 </details>
 
 ## 📊 GitHub Stats
-
+<!-- First line: Trophy stats - taking full width -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeamlakTamirat&theme=algolia&column=4&margin-w=15&margin-h=15" alt="Trophy Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BeamlakTamirat&theme=algolia&column=5&row=2&margin-w=10&margin-h=15&no-frame=true" alt="Trophy Stats" width="100%" />
 </div>
-
-<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BeamlakTamirat&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeamlakTamirat&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+<!-- Second line: GitHub stats and Top Languages side by side with better spacing -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeamlakTamirat&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeamlakTamirat&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 ## 🎯 Recent Projects
