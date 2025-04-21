@@ -2,10 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,4,30&animation=scaleIn&text=Beamlak%20Tamirat&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%92%AB%20FullStack%20Developer%20%7C%7C%20Mobile%20App%20Developer%20%5B%20Flutter%20%5D&descSize=20&descColor=90CAF9&descAlignY=55" width="100%"/>
 
    <!-- Animated particle text -->
-  <a href="#">
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-  </a>
-  
+
   <!-- Floating specializations -->
   <div style="background-image: linear-gradient(to right, #0891b2, #3b82f6); padding: 20px; border-radius: 10px; margin: 10px 0; position: relative; overflow: hidden;"></div>
 
@@ -35,9 +32,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
+
 
 ## 🚀 About Me
 
@@ -134,18 +129,9 @@ I'm a passionate Full-Stack & Flutter developer from Ethiopia. I build elegant U
   </a>
 </div>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Coming soon...]()
-<!-- BLOG-POST-LIST:END -->
 
 
 
-
-<div align="center">
-  <h3>⚡ Fun Fact</h3>
-  <p><i>I can write 'Hello World' in 7 programming languages, but can't speak a second human language 🌍😆</i></p>
-</div>
 
 
 
