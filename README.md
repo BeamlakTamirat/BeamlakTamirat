@@ -121,13 +121,17 @@ I'm a passionate Full-Stack & Flutter developer from Ethiopia. I build elegant U
 ## 🎯 Recent Projects
 
 <div align="center">
+   
+   <a href="https://github.com/BeamlakTamirat/HULU-CHAT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamlakTamirat&repo=HULU-CHAT&theme=react&hide_border=true" />
+  </a>
+   
   <a href="https://github.com/BeamlakTamirat/GroupChat-JavaSockets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamlakTamirat&repo=GroupChat-JavaSockets&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/BeamlakTamirat/Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamlakTamirat&repo=Weather-App&theme=react&hide_border=true" />
-  </a>
+  
 </div>
+
 
 
 
