@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,4,30&animation=scaleIn&text=Beamlak%20Tamirat&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%92%AB%20FullStack%20Developer%20%7C%7C%20Mobile%20App%20Developer%20%5B%20Flutter%20%5D&descSize=20&descColor=90CAF9&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,4,30&animation=scaleIn&text=Beamlak%20Tamirat&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%92%BB%20Fullstack%20AI%20Engineer%20%7C%7C%20Flutter%20Developer%20%F0%9F%93%B1&descSize=20&descColor=90CAF9&descAlignY=55" width="100%"/>
 
    <!-- Animated particle text -->
 
@@ -36,7 +36,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack & Flutter developer from Ethiopia. I build elegant UI/UX experiences with efficient backend architectures. While mastering web and mobile development, I'm nurturing my growing interest in AI, ML, and robotics.
+I'm a visionary **Fullstack AI Engineer** and **Flutter Expert** from Ethiopia. I bridge the gap between intelligent algorithms and pixel-perfect mobile experiences. 
+
+My passion lies in building **smart, cross-platform applications** that leverage the power of **AI/ML** to solve real-world problems. Whether it's architecting scalable backends, crafting intuitive Flutter UIs, or integrating next-gen AI models, I bring a holistic approach to software engineering.
 
 <table>
   <tr>
@@ -44,11 +46,11 @@ I'm a passionate Full-Stack & Flutter developer from Ethiopia. I build elegant U
       <div>
         <h3>💻 Current Focus</h3>
         <ul>
-          <li>🔭 Building cross-platform applications with Flutter</li>
-          <li>⚡ Creating responsive web applications with Next.js</li>
-          <li>🌱 Exploring backend architecture with Node.js & Express</li>
-          <li>🤔 Developing interest in AI/ML integration in applications</li>
-          <li>🧠 Practicing competitive programming on LeetCode and Codeforces</li>
+          <li>� Architecting advanced **Flutter** applications with complex state management</li>
+          <li>🤖 Integrating **AI & Machine Learning** models into mobile and web apps</li>
+          <li>🧠 Fine-tuning LLMs and building AI agents</li>
+          <li>⚡ Developing high-performance fullstack solutions (Node.js, Python, Dart)</li>
+          <li>🌱 Exploring the frontier of **Generative AI** and **Computer Vision**</li>
         </ul>
       </div>
     </td>
@@ -63,47 +65,44 @@ I'm a passionate Full-Stack & Flutter developer from Ethiopia. I build elegant U
 ## 💼 Skills
 
 <details open>
-<summary><b>Frontend</b></summary>
+<summary><b>Mobile & AI/ML</b></summary>
 <br>
 <p align="left">
-  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /></a>
-  <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /></a>
-  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" /></a>
+  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" /></a>
+  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /></a>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>
+  <a href="https://tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a>
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" /></a>
 </p>
 </details>
 
 <details open>
-<summary><b>Backend & Mobile</b></summary>
+<summary><b>Fullstack & Backend</b></summary>
 <br>
 <p align="left">
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
   <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a>
-  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" /></a>
-  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" /></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" /></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /></a>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
 </p>
 </details>
 
-<details open>
+<details>
 <summary><b>Languages & Tools</b></summary>
 <br>
 <p align="left">
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a>
   <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /></a>
-  <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /></a>
 </p>
 </details>
 
