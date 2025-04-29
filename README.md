@@ -46,11 +46,11 @@ My passion lies in building **smart, cross-platform applications** that leverage
       <div>
         <h3>💻 Current Focus</h3>
         <ul>
-          <li>� Architecting advanced **Flutter** applications with complex state management</li>
-          <li>🤖 Integrating **AI & Machine Learning** models into mobile and web apps</li>
+          <li>🔭 Architecting advanced Flutter applications with complex state management</li>
+          <li>🤖 Integrating AI & Machine Learning models into mobile and web apps</li>
           <li>🧠 Fine-tuning LLMs and building AI agents</li>
           <li>⚡ Developing high-performance fullstack solutions (Node.js, Python, Dart)</li>
-          <li>🌱 Exploring the frontier of **Generative AI** and **Computer Vision**</li>
+          <li>🌱 Exploring the frontier of Generative AI and Computer Vision</li>
         </ul>
       </div>
     </td>
