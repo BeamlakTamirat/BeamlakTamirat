@@ -36,9 +36,9 @@
 
 ## 🚀 About Me
 
-I'm a visionary **Fullstack AI Engineer** and **Flutter Expert** from Ethiopia. I bridge the gap between intelligent algorithms and pixel-perfect mobile experiences. 
+**Fullstack Flutter Developer & AI Engineer.**
 
-My passion lies in building **smart, cross-platform applications** that leverage the power of **AI/ML** to solve real-world problems. Whether it's architecting scalable backends, crafting intuitive Flutter UIs, or integrating next-gen AI models, I bring a holistic approach to software engineering.
+I build intelligent, automated mobile experiences by fusing **Flutter** with **RAG Architectures** and **Autonomous AI Agents**. Specializing in high-performance apps that bridge complex AI systems with intuitive design.
 
 <table>
   <tr>
@@ -106,30 +106,114 @@ My passion lies in building **smart, cross-platform applications** that leverage
 </p>
 </details>
 
-## 📊 GitHub Stats
-<!-- First line: Trophy stats - taking full width -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeamlakTamirat&theme=algolia&column=5&row=2&margin-w=10&margin-h=15&no-frame=true" alt="Trophy Stats" width="100%" />
-</div>
-<!-- Second line: GitHub stats and Top Languages side by side with better spacing -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeamlakTamirat&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeamlakTamirat&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="49%" />
-</div>
+## 🏆 My Top Projects
 
-## 🎯 Recent Projects
+### 🅿️ ParkMe Plus
+> **Find and book parking spots with ease.**
 
-<div align="center">
-   
-   <a href="https://github.com/BeamlakTamirat/HULU-CHAT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamlakTamirat&repo=HULU-CHAT&theme=react&hide_border=true" />
+**ParkMe Plus** is a comprehensive parking management system that includes user, admin, and attendant applications. It features real-time availability tracking, secure payments via Telebirr/CBE Birr, and QR code check-ins.
+
+<details>
+<summary><b>📱 What's Included</b></summary>
+<br>
+This release contains 3 Android APK files:
+
+- 🚗 **User App** (`parkme-plus-user-app.apk`): Find spots, real-time maps, payment integration, booking history.
+- 🖥️ **Admin App** (`parkme-plus-admin-app.apk`): Manage locations, revenue analytics, user management.
+- 📲 **Attendant App** (`parkme-plus-attendant-app.apk`): QR scanner, spot management, booking verification.
+</details>
+
+<details>
+<summary><b>🔧 Technical Details</b></summary>
+<br>
+<ul>
+  <li><b>Flutter Version:</b> 3.32.5</li>
+  <li><b>Build Type:</b> Release APK (Universal)</li>
+  <li><b>Min Android SDK:</b> 21 (Android 5.0)</li>
+  <li><b>Target Android SDK:</b> 34 (Android 14)</li>
+</ul>
+</details>
+
+<p align="left">
+  <a href="https://github.com/BeamlakTamirat/parkme-plus/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Download_Latest_APK-v1.0.0-success?style=for-the-badge&logo=android&logoColor=white" />
   </a>
-   
-  <a href="https://github.com/BeamlakTamirat/Filega-SearchEngine-PHP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamlakTamirat&repo=Filega-SearchEngine-PHP&theme=react&hide_border=true" />
+  <a href="https://github.com/BeamlakTamirat/parkme-plus">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
-</div>
+</p>
+
+---
+
+### 🧾 Receipto
+> **Transform physical receipts into digital insights with on-device AI.**
+
+**Receipto** is a state-of-the-art financial tracking tool powered by Google ML Kit and Supabase. It ensures your financial data stays organized with automated categorization and smart analytics.
+
+<details>
+<summary><b>✨ Key Features</b></summary>
+<br>
+<ul>
+  <li><b>AI-Powered OCR:</b> Extract merchant, date, and amount with high precision.</li>
+  <li><b>Smart Analytics:</b> Visualize monthly spending habits.</li>
+  <li><b>Cloud Sync:</b> Real-time synchronization across devices.</li>
+  <li><b>Privacy Centric:</b> Secure authentication and local processing.</li>
+</ul>
+</details>
+
+**Tech Stack:** `Flutter` `Supabase` `Google ML Kit` `Dart`
+
+<p align="left">
+  <a href="https://github.com/BeamlakTamirat/Receipto/releases/tag/v1.0.2">
+    <img src="https://img.shields.io/badge/Download_App-v1.0.2-blue?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="https://github.com/BeamlakTamirat/Receipto">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🏥 Dr. Heal AI
+> **Intelligent Medical Assistant powered by Multi-Agent AI.**
+
+**Dr. Heal AI** leverages a sophisticated multi-agent architecture (**LangGraph**) to coordinate specialized agents for symptom analysis, disease information, and treatment recommendations.
+
+<details>
+<summary><b>🚀 System Architecture</b></summary>
+<br>
+The system features 4 specialized agents:
+<ul>
+  <li><b>SymptomAnalyzerAgent:</b> Analyzes symptoms and severity.</li>
+  <li><b>DiseaseExpertAgent:</b> Provides comprehensive disease info.</li>
+  <li><b>TreatmentAdvisorAgent:</b> Recommends evidence-based treatments.</li>
+  <li><b>EmergencyTriageAgent:</b> Identifies emergencies.</li>
+</ul>
+It integrates <b>ChromaDB (RAG)</b>, <b>DuckDuckGo Search</b>, and <b>Gemini LLM</b> for accurate medical insights.
+</details>
+
+<p align="left">
+  <a href="https://github.com/BeamlakTamirat/Dr-Heal-Ai/releases">
+    <img src="https://img.shields.io/badge/Download_APK-Android-success?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://dr-heal-ai-production.up.railway.app/docs">
+    <img src="https://img.shields.io/badge/Live_Demo-Web-orange?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/BeamlakTamirat/Dr-Heal-Ai">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌟 More Exciting Projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **📸 Momento** | A social platform specifically designed for capturing and sharing special moments. | [Website](https://momento-one.vercel.app/) • [Repo](https://github.com/BeamlakTamirat/Momento) |
+| **💬 HuluChat** | A modern real-time messaging application. | [Repo](https://github.com/BeamlakTamirat/HULU-CHAT) |
+| **🚀 YC Startups Assistant** | An AI-powered assistant to help navigate YC startup resources. | [Repo](https://github.com/BeamlakTamirat/YC-Startups-Assistant) |
+| **📝 Bloggr** | A fully functional blogging platform for content creators. | [Website](https://bloggr-xi.vercel.app) • [Repo](https://github.com/BeamlakTamirat/bloggr) |
 
 
 
