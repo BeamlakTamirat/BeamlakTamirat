@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,4,30&animation=scaleIn&text=Beamlak%20Tamirat&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%92%BB%20Fullstack%20AI%20Engineer%20%7C%7C%20Flutter%20Developer%20%F0%9F%93%B1&descSize=20&descColor=90CAF9&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,4,30&animation=scaleIn&text=Beamlak%20Tamirat&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=%20%F0%9F%93%B1%20Flutter%20Developer%20%7C%7C%20AI%20Engineer%F0%9F%92%BB&descSize=20&descColor=90CAF9&descAlignY=55" width="100%"/>
 
    <!-- Animated particle text -->
 
@@ -36,7 +36,6 @@
 
 ## 🚀 About Me
 
-**Fullstack Flutter Developer & AI Engineer.**
 
 I build intelligent, automated mobile experiences by fusing **Flutter** with **RAG Architectures** and **Autonomous AI Agents**. Specializing in high-performance apps that bridge complex AI systems with intuitive design.
 
