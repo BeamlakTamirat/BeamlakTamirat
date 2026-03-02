@@ -34,32 +34,17 @@
 
 
 
-## 🚀 About Me
+## 🟢 SYSTEM_STATUS: ONLINE
 
-
-I build intelligent, automated mobile experiences by fusing **Flutter** with **RAG Architectures** and **Autonomous AI Agents**. Specializing in high-performance apps that bridge complex AI systems with intuitive design.
-
-<table>
-  <tr>
-    <td valign="center" width="50%">
-      <div>
-        <h3>💻 Current Focus</h3>
-        <ul>
-          <li>🔭 Architecting advanced Flutter applications with complex state management</li>
-          <li>🤖 Integrating AI & Machine Learning models into mobile and web apps</li>
-          <li>🧠 Fine-tuning LLMs and building AI agents</li>
-          <li>⚡ Developing high-performance fullstack solutions (Node.js, Python, Dart)</li>
-          <li>🌱 Exploring the frontier of Generative AI and Computer Vision</li>
-        </ul>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeamlakTamirat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-      </div>
-    </td>
-  </tr>
-</table>
+```yaml
+USER_ID: Beamlak_Tamirat
+ROLE: [Architect, AI_Engineer, Flutter_Specialist]
+CURRENT_MISSION_OBJECTIVES:
+  - 📱 BUILD: Production-Ready_Android_iOS_Apps  # Deploying scalable mobile solutions
+  - 🤝 COMMUNITY: Contributing_to_Open_Source    # Contributing to OSS-projects
+  - 🤖 AUTOMATE: [RAGs, AI_Agents, Workflows]    # Implementing autonomous intelligence
+  - 🧠 INTEGRATE: AI/ML_Models_in_Flutter        # Integrating AI/ML into mobile apps
+```
 
 ## 💼 Skills
 
@@ -107,103 +92,73 @@ I build intelligent, automated mobile experiences by fusing **Flutter** with **R
 
 ## 🏆 My Top Projects
 
-### 🅿️ ParkMe Plus
-> **Find and book parking spots with ease.**
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h3>🅿️ ParkMe Plus</h3>
+    </td>
+    <td align="right">
+      <a href="https://github.com/BeamlakTamirat/parkme-plus/releases/tag/v1.0.0">
+        <img src="https://img.shields.io/badge/Download_APK-v1.0.0-success?style=for-the-badge&logo=android&logoColor=white" />
+      </a>
+      <a href="https://github.com/BeamlakTamirat/parkme-plus">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**ParkMe Plus** is a comprehensive parking management system that includes user, admin, and attendant applications. It features real-time availability tracking, secure payments via Telebirr/CBE Birr, and QR code check-ins.
+> **The ultimate parking ecosystem.**
 
-<details>
-<summary><b>📱 What's Included</b></summary>
-<br>
-This release contains 3 Android APK files:
-
-- 🚗 **User App** (`parkme-plus-user-app.apk`): Find spots, real-time maps, payment integration, booking history.
-- 🖥️ **Admin App** (`parkme-plus-admin-app.apk`): Manage locations, revenue analytics, user management.
-- 📲 **Attendant App** (`parkme-plus-attendant-app.apk`): QR scanner, spot management, booking verification.
-</details>
-
-<details>
-<summary><b>🔧 Technical Details</b></summary>
-<br>
-<ul>
-  <li><b>Flutter Version:</b> 3.32.5</li>
-  <li><b>Build Type:</b> Release APK (Universal)</li>
-  <li><b>Min Android SDK:</b> 21 (Android 5.0)</li>
-  <li><b>Target Android SDK:</b> 34 (Android 14)</li>
-</ul>
-</details>
-
-<p align="left">
-  <a href="https://github.com/BeamlakTamirat/parkme-plus/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/Download_Latest_APK-v1.0.0-success?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-  <a href="https://github.com/BeamlakTamirat/parkme-plus">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+A comprehensive suite of **3 interconnected apps** (User, Admin, Attendant) handling everything from real-time booking to revenue analytics. Built for scale with secure payment(telebirr/CBE/M-Pesa/CooPay/MasterCard - more) and QR verification.
 
 ---
 
-### 🧾 Receipto
-> **Transform physical receipts into digital insights with on-device AI.**
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h3>🧾 Receipto</h3>
+    </td>
+    <td align="right">
+      <a href="https://github.com/BeamlakTamirat/Receipto/releases/tag/v1.0.2">
+        <img src="https://img.shields.io/badge/Download_App-v1.0.2-blue?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+      <a href="https://github.com/BeamlakTamirat/Receipto">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Receipto** is a state-of-the-art financial tracking tool powered by Google ML Kit and Supabase. It ensures your financial data stays organized with automated categorization and smart analytics.
+> **Financial clarity, instantly.**
 
-<details>
-<summary><b>✨ Key Features</b></summary>
-<br>
-<ul>
-  <li><b>AI-Powered OCR:</b> Extract merchant, date, and amount with high precision.</li>
-  <li><b>Smart Analytics:</b> Visualize monthly spending habits.</li>
-  <li><b>Cloud Sync:</b> Real-time synchronization across devices.</li>
-  <li><b>Privacy Centric:</b> Secure authentication and local processing.</li>
-</ul>
-</details>
-
-**Tech Stack:** `Flutter` `Supabase` `Google ML Kit` `Dart`
-
-<p align="left">
-  <a href="https://github.com/BeamlakTamirat/Receipto/releases/tag/v1.0.2">
-    <img src="https://img.shields.io/badge/Download_App-v1.0.2-blue?style=for-the-badge&logo=google-play&logoColor=white" />
-  </a>
-  <a href="https://github.com/BeamlakTamirat/Receipto">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Scans receipts with **on-device AI** to automatically categorize expenses and visualize spending habits—privacy-first and cloud-synced via Supabase.
 
 ---
 
-### 🏥 Dr. Heal AI
-> **Intelligent Medical Assistant powered by Multi-Agent AI.**
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h3>🏥 Dr. Heal AI</h3>
+    </td>
+    <td align="right">
+      <a href="https://github.com/BeamlakTamirat/Dr-Heal-Ai/releases">
+        <img src="https://img.shields.io/badge/Download_APK-Android-success?style=for-the-badge&logo=android&logoColor=white" />
+      </a>
+      <a href="https://github.com/BeamlakTamirat/Dr-Heal-Ai">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Dr. Heal AI** leverages a sophisticated multi-agent architecture (**LangGraph**) to coordinate specialized agents for symptom analysis, disease information, and treatment recommendations.
+> **Next-gen medical intelligence.**
 
-<details>
-<summary><b>🚀 System Architecture</b></summary>
-<br>
-The system features 4 specialized agents:
-<ul>
-  <li><b>SymptomAnalyzerAgent:</b> Analyzes symptoms and severity.</li>
-  <li><b>DiseaseExpertAgent:</b> Provides comprehensive disease info.</li>
-  <li><b>TreatmentAdvisorAgent:</b> Recommends evidence-based treatments.</li>
-  <li><b>EmergencyTriageAgent:</b> Identifies emergencies.</li>
-</ul>
-It integrates <b>ChromaDB (RAG)</b>, <b>DuckDuckGo Search</b>, and <b>Gemini LLM</b> for accurate medical insights.
-</details>
-
-<p align="left">
-  <a href="https://github.com/BeamlakTamirat/Dr-Heal-Ai/releases">
-    <img src="https://img.shields.io/badge/Download_APK-Android-success?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-  <a href="https://dr-heal-ai-production.up.railway.app/docs">
-    <img src="https://img.shields.io/badge/Live_Demo-Web-orange?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://github.com/BeamlakTamirat/Dr-Heal-Ai">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Orchestrates a **Multi-Agent System** (LangGraph) to provide symptom analysis and treatment advice with clinical precision. Intelligent, autonomous, and potentially life-saving.
 
 ---
+
+
 
 ### 🌟 More Exciting Projects
 
