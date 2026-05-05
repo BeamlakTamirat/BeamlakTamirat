@@ -48,7 +48,7 @@ CURRENT_MISSION_OBJECTIVES:
 
 ## 💼 Skills
 
-<details open>
+<details close>
 <summary><b>Mobile & AI/ML</b></summary>
 <br>
 <p align="left">
@@ -61,7 +61,7 @@ CURRENT_MISSION_OBJECTIVES:
 </p>
 </details>
 
-<details open>
+<details close>
 <summary><b>Fullstack & Backend</b></summary>
 <br>
 <p align="left">
